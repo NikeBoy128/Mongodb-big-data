@@ -1,0 +1,1 @@
+db. clientes.deleteOne ({ 'email': 'juan.perez@example.com' })
